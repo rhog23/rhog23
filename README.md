@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhog23
+- 👋 Hi, I’m Raymond E. Saragih
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning (Object Detection and Recognition, Fruit Ripeness Classification, and Face Recognition)
 - 🌱 I’m currently learning about Data Science, Machine Learning, and Deep Learning
 - 📫 How to reach me: raymonde.saragih@gmail.com
