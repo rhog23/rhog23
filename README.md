@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raymond E. Saragih
-- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning (Object Detection and Recognition, Fruit Ripeness Classification, and Face Recognition)
-- 🌱 I’m currently learning about Data Science, Machine Learning, and Deep Learning
+- 👀 I’m working mainly in the field of Deep Learning-based Computer Vision (Classification and Detection)
+- 🧑‍💼 Lecturer and Researcher 
 - 📫 How to reach me: raymonde.saragih@gmail.com
 
 <!---
